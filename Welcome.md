@@ -1,0 +1,1 @@
+Hello! Here, you will find some projects that I have created. I have collected the vast majority of these datasets off of Kaggle and other sites within the Public Domain. Addiionally, I extracted, analyzed, and visualized data in each dataset using a variation of Tableau, SQL, Python and Excel. Thanks for viewing!
